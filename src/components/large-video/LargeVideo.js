@@ -34,7 +34,7 @@ function LargeVideo() {
                                     
                                 </p>
                                 <p>
-                                Because suggesting complexity in your daily resume audits would likely be confusing. We're here to simplify with clarity and precision.
+                                Because suggesting complexity in your daily resume audits would likely be confusing. We&apos;re here to simplify with clarity and precision.
                                 </p>
                             </div>
                         </div>

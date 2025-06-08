@@ -26,7 +26,7 @@ function FaqOne() {
                                         Common questions
                                     </h2>
                                     <p>
-                                    If you can’t find what you’re looking for, email us and we'll get back to you as soon as possible.
+                                    If you can&apos;t find what you&apos;re looking for, email us and we&apos;ll get back to you as soon as possible.
                                     </p>
                                 </div>
                             </div>
@@ -45,7 +45,7 @@ function FaqOne() {
                                         <Accordion.Item eventKey="1">
                                             <Accordion.Header>Can the AI resume auditor help with specific industries?</Accordion.Header>
                                             <Accordion.Body>
-                                            Absolutely! The tool is designed to cater to a wide range of industries. Whether you're in technology, marketing, finance, or any other field, the AI resume auditor provides customized feedback to suit your career goals.
+                                            Absolutely! The tool is designed to cater to a wide range of industries. Whether you&apos;re in technology, marketing, finance, or any other field, the AI resume auditor provides customized feedback to suit your career goals.
                                             </Accordion.Body>
                                         </Accordion.Item>
                                         <Accordion.Item eventKey="2">
@@ -63,13 +63,13 @@ function FaqOne() {
                                         <Accordion.Item eventKey="4">
                                             <Accordion.Header>How often can I use the AI resume auditor?</Accordion.Header>
                                             <Accordion.Body>
-                                            You can use the AI resume auditor as often as needed. Whether you're updating your resume for a new job opportunity or seeking continuous improvement, our tool is here to assist you at every step of your career journey.
+                                            You can use the AI resume auditor as often as needed. Whether you&apos;re updating your resume for a new job opportunity or seeking continuous improvement, our tool is here to assist you at every step of your career journey.
                                             </Accordion.Body>
                                         </Accordion.Item>
                                         <Accordion.Item eventKey="5">
                                             <Accordion.Header>How long does it take to receive feedback from the AI resume auditor?</Accordion.Header>
                                             <Accordion.Body>
-                                            The analysis is typically completed within minutes. You'll receive instant feedback on your resume, allowing you to make timely improvements and stay ahead in your job search.
+                                            The analysis is typically completed within minutes. You&apos;ll receive instant feedback on your resume, allowing you to make timely improvements and stay ahead in your job search.
                                             </Accordion.Body>
                                         </Accordion.Item>
                                     </Accordion>
