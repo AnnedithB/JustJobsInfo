@@ -1,0 +1,16 @@
+.header-logo {
+    width: 160px;
+    height: auto;
+    object-fit: contain;
+}
+
+.logo-area {
+    display: block;
+    line-height: 0;
+}
+
+.header-style-one {
+    box-shadow: 0 2px 12px rgba(0,0,0,0.06);
+    z-index: 100;
+    position: relative;
+} 
