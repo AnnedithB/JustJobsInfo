@@ -87,7 +87,7 @@ export default function LoginPage() {
                                     </button>
 
                                     <div className="register-link text-center">
-                                        Don't have an account? <Link href="/register">Register here</Link>
+                                        Don&apos;t have an account? <Link href="/register">Register here</Link>
                                     </div>
                                 </form>
                             </div>
